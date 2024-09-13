@@ -1,0 +1,1 @@
+Following along Theo from t3.gg 's tutorial - From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Shadui, Drizzle, TS and more)
